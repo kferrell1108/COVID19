@@ -1,0 +1,52 @@
+state	fips	STNAME	Population	category	color	region	abbr	CS
+ALABAMA	1	Alabama	4903185	Solidly Red	 Red	South	AL	N
+ALASKA	2	Alaska	731545	Solidly Red	 Red	West Coast	AK	N
+ARIZONA	4	Arizona	7278717	Firmly Red	 Red	Southwest	AZ	Y
+ARKANSAS	5	Arkansas	3017804	Solidly Red	 Red	South	AR	Y
+CALIFORNIA	6	California	39512223	Solidly Blue	 Blue	West Coast	CA	Y
+COLORADO	8	Colorado	5758736	Firmly Blue	 Blue	Rockies	CO	N
+CONNECTICUT	9	Connecticut	3565287	Solidly Blue	 Blue	New England	CN	N
+DELAWARE	10	Delaware	973764	Solidly Blue	 Blue	Mid-Atlantic	DE	N
+DISTRICT OF COLUMBIA	11	District of Columbia	705749	Solidly Blue	 Blue	Mid-Atlantic	DC	N
+FLORIDA	12	Florida	21477737	Narrowly Red	 Red	South	FL	N
+GEORGIA	13	Georgia	10617423	Firmly Red	 Red	South	GA	N
+HAWAII	15	Hawaii	1415872	Solidly Blue	 Blue	West Coast	HI	N
+IDAHO	16	Idaho	1787065	Solidly Red	 Red	Rockies	ID	N
+ILLINOIS	17	Illinois	12671821	Solidly Blue	 Blue	Great Lakes	IL	N
+INDIANA	18	Indiana	6732219	Solidly Red	 Red	Great Lakes	IN	N
+IOWA	19	Iowa	3155070	Firmly Red	 Red	Midwest	IA	Y
+KANSAS	20	Kansas	2913314	Solidly Red	 Red	Midwest	KS	Y
+KENTUCKY	21	Kentucky	4467673	Solidly Red	 Red	South	KY	Y
+LOUISIANA	22	Louisiana	4648794	Solidly Red	 Red	South	LA	N
+MAINE	23	Maine	1344212	Firmly Blue	 Blue	New England	ME	N
+MARYLAND	24	Maryland	6045680	Solidly Blue	 Blue	Mid-Atlantic	MD	N
+MASSACHUSETTS	25	Massachusetts	6892503	Solidly Blue	 Blue	New England	MA	N
+MICHIGAN	26	Michigan	9986857	Narrowly Red	 Red	Great Lakes	MI	N
+MINNESOTA	27	Minnesota	5639632	Narrowly Blue	 Blue	Great Lakes	MN	Y
+MISSISSIPPI	28	Mississippi	2976149	Solidly Red	 Red	South	MS	N
+MISSOURI	29	Missouri	6137428	Solidly Red	 Red	Midwest	MO	N
+MONTANA	30	Montana	1068778	Solidly Red	 Red	Rockies	MT	N
+NEBRASKA	31	Nebraska	1934408	Solidly Red	 Red	Midwest	NE	Y
+NEVADA	32	Nevada	3080156	Firmly Blue	 Blue	Southwest	NV	Y
+NEW HAMPSHIRE	33	New Hampshire	1359711	Narrowly Blue	 Blue	New England	NH	N
+NEW JERSEY	34	New Jersey	8882190	Solidly Blue	 Blue	Mid-Atlantic	NJ	N
+NEW MEXICO	35	New Mexico	2096829	Firmly Blue	 Blue	Southwest	NM	N
+NEW YORK	36	New York	19453561	Solidly Blue	 Blue	New England	NY	N
+NORTH CAROLINA	37	North Carolina	10488084	Firmly Red	 Red	South	NC	N
+NORTH DAKOTA	38	North Dakota	762062	Solidly Red	 Red	Midwest	ND	Y
+OHIO	39	Ohio	11689100	Firmly Red	 Red	Great Lakes	OH	Y
+OKLAHOMA	40	Oklahoma	3956971	Solidly Red	 Red	Midwest	OK	N
+OREGON	41	Oregon	4217737	Solidly Blue	 Blue	West Coast	OR	Y
+PENNSYLVANIA	42	Pennsylvania	12801989	Narrowly Red	 Red	Mid-Atlantic	PA	N
+RHODE ISLAND	44	Rhode Island	1059361	Solidly Blue	 Blue	New England	RI	N
+SOUTH CAROLINA	45	South Carolina	5148714	Solidly Red	 Red	South	SC	N
+SOUTH DAKOTA	46	South Dakota	884659	Solidly Red	 Red	Midwest	SD	N
+TENNESSEE	47	Tennessee	6829174	Solidly Red	 Red	South	TN	Y
+TEXAS	48	Texas	28995881	Firmly Red	 Red	Southwest	TX	Y
+UTAH	49	Utah	3205958	Solidly Red	 Red	Rockies	UT	N
+VERMONT	50	Vermont	623989	Solidly Blue	 Blue	New England	VT	N
+VIRGINIA	51	Virginia	8535519	Firmly Blue	 Blue	Mid-Atlantic	VA	N
+WASHINGTON	53	Washington	7614893	Solidly Blue	 Blue	West Coast	WA	Y
+WEST VIRGINIA	54	West Virginia	1792147	Solidly Red	 Red	Mid-Atlantic	WV	N
+WISCONSIN	55	Wisconsin	5822434	Narrowly Red	 Red	Great Lakes	WI	N
+WYOMING	56	Wyoming	578759	Solidly Red	 Red	Rockies	WY	N
